@@ -1,63 +1,56 @@
+<h2 align="center">Hi 👋! My name is Yasin and I'm a Software Test Engineer</h2>
+
+###
+
 <div align="center">
- Hi there 👋, I m Yasin
-
-
-Welcome to my page!🎉
-
-
-<img src="https://github.com/yasinaktepe/yasinaktepe/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966%20(1).gif" width="auto">
+  <img src="https://github-readme-stats.vercel.app/api?username=yas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<!--
-**yasinaktepe/yasinaktepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img align="right" height="150" src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966"  />
 
-- 🔭 I am a Software Development Engineer in Test Candidate from Turkey.
-- 🌱 I’m currently working on Information Technology.
-- 👯 I’m currently learning testing tools and exploring technical content writing.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasin-aktepe-qa) 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" width="42" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" width="42" alt="jenkins logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" width="42" alt="cucumber logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" width="42" alt="jira logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="42" alt="trello logo"  />
+</div>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) [![Maven](https://badgen.net/badge/icon/maven?icon=maven&label)](https://https://maven.apache.org/) [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/) [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) [![Cucumber](https://img.shields.io/badge/-Cucumber-%23222222?logo=Cucumber&logoColor=green&style=flat-square)](https://cucumber.io/) [![Selenium](https://img.shields.io/badge/-Selenium-%23green?logo=Selenium&logoColor=white&style=flat-square)](https://www.selenium.dev/) ![IntelliJ IDEA GitHub Icon(https://github.com/JetBrains/logos/blob/master/web/github.png?raw=true) [![JUnit](https://img.shields.io/badge/-JUnit-%23000?logo=JUnit&logoColor=white&style=flat-square)](https://junit.org/junit5/) [![TestNG](https://img.shields.io/badge/-TestNG-%23yellow?logo=TestNG&logoColor=white&style=flat-square)](https://testng.org/) [![Cucumber](https://img.shields.io/badge/-Cucumber-%23black?logo=Cucumber&logoColor=white&style=flat-square)](https://cucumber.io/) [![JDBC](https://img.shields.io/badge/-JDBC-%23orange?logo=Java&logoColor=white&style=flat-square)](https://docs.oracle.com/javase/tutorial/jdbc/index.html) [![Appium](https://img.shields.io/badge/-Appium-%23a464c4?logo=Appium&logoColor=white&style=flat-square)](https://appium.io/) [![TestNG Badge](https://img.shields.io/badge/-TestNG-green?style=flat-square&logo=testng&logoColor=white&link=link)](link)
+###
 
+<div align="left">
+  <a href="Yasin Aktepe#8085" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="yasinaktepeqa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="yasin-aktepe-qa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/yas/yas/blob/output/snake.svg" alt="Snake animation" />
 
+###
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yasinaktepe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=yasinaktepe&theme=dark&hide_border=false)<br/>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/yas/count.svg?"  />
+</div>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yasinaktepe&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=yasinaktepe&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
-
-
-
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+###
