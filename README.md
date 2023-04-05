@@ -1,6 +1,7 @@
 ### Hi there 👋, I m Yasin
 
 Welcome to my page!🎉
+<img src="[gorsel-link](https://github.com/yasinaktepe/yasinaktepe/blob/main/a-que-se-dedica-qa-tester.jpg)" width="auto">
 
 
 
